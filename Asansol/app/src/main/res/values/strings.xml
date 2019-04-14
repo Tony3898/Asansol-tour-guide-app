@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">Asansol</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <!--Main Activity-->
+    <string name="main_des">Asansol is a Metropolitan city in the Indian state of West Bengal. It is the second largest and most populated city in West Bengal after Kolkata and the district headquarters of Paschim Bardhaman district. It is the 39th largest urban agglomeration in India. According to a 2010 report released by the International Institute for Environment and Development, a UK-based policy research non-governmental body, Asansol was ranked 11th among Indian cities. and 42nd in the world in its list of 100 fastest-growing cities. Asansol is classed as a Y-category city for calculation of HRA for public servants, making it a Tier-II</string>
+
+    <!--Tab Layout-->
+    <string name="explore">Explore</string>
+    <string name="temple">Temple</string>
+    <string name="park">Park</string>
+    <string name="hotel">Hotel</string>
+
+
+    <!--Explore Fragments-->
+    <string name="durgapur">Durgapur</string>
+    <string name="durgapur_Desc">Durgapur is a Tier-II city in Paschim Bardhaman district, in the state of West Bengal, India. Durgapur is the third largest urban agglolomeration after Kolkata and Asansol in West Bengal and happens to be the second planned city of India after Chandigarh and has the only operational dry port in Eastern India. Durgapur was planned by two American Architects Joseph Allen Stein and Benjamin Polk in 1955.It is the only city in Eastern India to have an operational dry dock.</string>
+
+    <string name="bardhaman">Bardhaman</string>
+    <string name="bardhaman_desc">Bardhaman is a city in West Bengal state in eastern India. It is the headquarters of Purba Bardhaman district, having become a district capital during the period of British rule. Burdwan, an alternative name for the city, has remained in use since that period. The history of Burdwan is known from about 5000 BC. The origin of this name dates back to the 6th century BCE and is ascribed to Vardhaman Swami or Mahavira, the 24th Tirthankara of Jainism, who spent some time in Astikagrama, according to the Jain scripture of Kalpasutra. This place was renamed as Vardhamana in his honour. </string>
+
+    <string name="maithon">Maithon</string>
+    <string name="maithon_desc">Maithon is a census town in Nirsa CD Block in Dhanbad district in the Indian state of Jharkhand. It is situated on the banks of river Barakar</string>
+
+    <string name="nabadwip">Nabadwip</string>
+    <string name="nabadwip_desc">Nabadwip is a city under Municipal administration in the Nadia District in West Bengal. It is seated on the western bank of the Bhagirathi river. The Bhagirathi river originally flowed down the west of Nabadwip in the past, forming a natural boundary between the districts of Bardhaman and Nadia. With time it has shifted its course to where it is at present, cutting the city off from the rest of the Nadia district. It is considered to have been founded in 1063 AD, which served as the old capital of the Sena dynasty. It was a center of learning and philosophy in medieval India and is still noted for its traditional Sanskrit schools. The Navya Nyaya school of logic reached its peak with the efforts of some well known contemporary philosophers of Nabadwip. The great Vaishnava saint, social reformer and an important figure of the Bhakti movement, Chaitanya Mahaprabhu was born here, for whose sake, this place has turned into an important center of pilgrimage for the Vaishnavs world wide as well as the Hindus in general.</string>
+
+    <string name="kalna">Kalna</string>
+    <string name="kalna_desc">Ambika Kalna or simply Kalna is a city, a municipality and headquarters of Kalna subdivision in Purba Bardhaman district in the Indian state of West Bengal. It is situated on the western bank of the Bhāgirathi. The town is more popularly known as Ambika Kalna, named after a very popular deity, Goddess Kali, Maa Ambika. It has numerous historical monuments such as the Rajbari and the 108 Shiva temples. The town of Kalna, is 60 kilometres from Bardhaman, the district headquarters."</string>
+
+    <string name="katwa">Katwa</string>
+    <string name="katwa_desc">Katwa is a municipality town and the headquarters of Katwa subdivision in Purba Bardhaman district of Indian state of West Bengal</string>
+
+    <string name="chittaranjan">Chittaranjan</string>
+    <string name="chittaranjan_desc">Chittaranjan is a suburban area and a census town in Salanpur, West Bengal. It is most popularly known for Chittaranjan Locomotive Works, an Indian Government railway locomotive factory.</string>
+
+    <string name="raniganj">Raniganj</string>
+    <string name="raniganj_desc">Raniganj is the South-Eastern neighbourhood in Asansol, in Asansol Sadar subdivision of Paschim Bardhaman district in the state of West Bengal, India. </string>
+
+    <!--Hotel Fragments-->
+
+    <string name="The_Hindustan_Residency">The Hindustan Residency</string>
+    <string name="The_Hindustan_Residency_desc">Offering complimentary internet access, The Hindustan Residency is inclusive of a multi-cuisine restaurant that serves a selection of delicacies to its patrons. The property in Asansol is roughly 0.5 km from Nivedita Bus Terminus and 2 km from I.N.A Memorial.
+
+        Arranged over four floors, guests have an option to choose from its 34 rooms that are well-kept and spacious. Rooms are fitted with a host of conveniences including toiletries, large bed, side table, ceiling fan, television, separate seating area, air-conditioner, and attached bath with the facility of hot/cold running water.
+
+        Along with a host of conveniences, the property in Asansol has car parking, banquet hall, lawn, conference hall, business center and front desk available on its premises. Guests are offered wake-up calls, doctor on call, car rental, laundry, and housekeeping during their stay.
+
+        The Hindustan Residency is accessible from Asansol Junction Railway Station (5 km) and Burnpur Airport (12 km). Must visit tourist spots to drop by are Nehru Park (11 km) and Nandini Park (7 km). </string>
+
+    <string name="The_Asansol_International">The Asansol International</string>
+    <string name="The_Asansol_International_desc">The Yatra SMART choice property comes with a promise of 8 assured amenities, money-back guarantee and priority helpline support. You also get free cancellation and standardized prices through the year. Placed at a distance of 10 km from the Nandini Park, Hotel Asansol International is a value for money accommodation offering complimentary breakfast and Wi-Fi connectivity to its patrons.
+
+        The accommodation in Asansol is accessible from the Nivedita Bus Terminus, which is 7 km away. Guests can relish a selection of delicacies at the in-house restaurant. With its 42 well-appointed rooms to choose from that are spread over three floors, the property in Asansol offers a comfortable stay.
+        A host of convenience available in the rooms include drinking water, television, ceiling fan, air-conditioner, chair, separate seating area, working desk, makeup mirror, comfortable bed, attached bathroom and hot water facility.
+        Apart from good accommodation in Asansol, the property provides wake-up calls, car rental, doctor on call, laundry, travel assistance, and housekeeping to its patrons. Other conveniences include car parking, conference hall, front desk, safe deposit locker, swimming pool, bar/lounge, travel counter, indoor games parlor, health club, gents parlor, banquet hall, lawn and business center to name a few.
+        Nearby points of interest to drop by are Nehru Park (10 km) and I.N.A Memorial (5 km). Hotel Asansol International is accessible from Asansol Junction Railway Station (3 km) and Burnpur Airport (9 km). </string>
+
+    <string name="The_Fern_Residency_Galaxy_Mall">The Fern Residency Galaxy Mall</string>
+    <string name="The_Fern_Residency_Galaxy_Mall_desc">The Fern Residency Galaxy Mall is one of the finest 3 star deluxe hotel in Asansol. This property offers an awesome hotel stay experience with modern rooms and ambiance, superb range of business and recreational services, large indoor conference facilities with gym, bar and a multi-cuisine restaurant.
+
+        Vista is located on the 5th floor with a capacity of 45 people offering a multi-speciality platter from 7 am to 11 pm. Panache, the bar can also seat upto 35 guests and is open from 11 am to 11 pm. With 3 conference halls, Orchid 1, Orchid 2 and Lotus can accommodate a max of 350 people.
+
+        A 3-star business hotel, Asansols fist ecotel hotel The Fern Residency,Galaxy Mall which is located adjacent of Galaxy Mall the soul of Asansol at Burnpur Road This hotel in Asansol is set amidst lush green surroundings offers peace and tranquility to the guests.
+
+        The hotel is well equipped with modern facilities and eco-friendly toiletries. </string>
+
+    <string name="Sormistha_Residency">Sormistha Residency</string>
+    <string name="Sormistha_Residency_desc">Approximately at 2 km from Satabdi Park, Sormistha Residency provides accommodation in Asansol. It offers internet access to its patrons. Asansol City Bus Stand is at 3 km from this hotel in Asansol. Guests can choose from a total of 55 rooms, spread over 5 floors.
+
+        Amenities in each room include an attached bathroom, mini fridge, television, telephone, separate sitting area and premium bedding. Sormistha Residency offers laundry and room service to its guests. This Asansol hotel features a conference room, restaurant, gym and parking area within the premises.
+        This Asansol property is at 4 km away from Asansol Junction and about 5 km from Barachak Station. Tourist attractions in the proximity of the hotel include Galaxy Mall (2 km), Nehru Park (9 km), and Onda Shiv Mandir (3 km).</string>
+
+    <string name="The_Citi_Residenci">The Citi Residenci</string>
+    <string name="The_Citi_Residenci_desc">The Yatra SMART choice property comes with a promise of 8 assured amenities, money-back guarantee and priority helpline support. You also get free cancellation and standardized prices through the year. The Citi Residenci is situated at a distance of 8 km from Asansol Junction (Railway Station) and 10 km from Asansol Airport.
+
+        This hotel offers 24 hour front desk facility.This hotel in Asansol has 4 floors and 42 rooms. All rooms are equipped with amenities like tea/coffee maker, balcony, telephone, television and seating area. The rooms have an attached bathroom with shower cubicle and hot/cold water facility.The travel desk assists with sight-seeing and car rental service.
+
+        Additional services like laundry, bellboy, medical and 24-hour room service are available at the hotel. Other facilities include coffee shop, lounge, travel desk, backup generator and currency exchange counter.The Citi Residenci has an open-air restaurant within its premises.
+
+        The famous attractions include Kalyaneswari Temple (90 km), Nehru Park (15 km) and Sacred Heart Church (13 km).</string>
+
+    <!--Temple Fragments-->
+
+    <string name="Ghabar_Buri_Chandi_Temple">Ghabar Buri Chandi Temple</string>
+    <string name="Ghabar_Buri_Chandi_Temple_desc">Ghabar Buri Chandi Temple is located on Kali Pahadi in Asansol. It is believed that Maa Ghagar Buri is one of the other images of Maa Chandi, the mother Goddess.
+        The Ghabar Buri Chandi temple is located on the banks of a small rivulet, named Nunia. The temple is open from dawn to dusk and you can offer pujas here during the morning time.
+        Some of the other places of interest near the Ghabar Buri Chandi are Shantiniketan, Vishnupur and Vishwa Bharati. Chelidanga is a popular shopping place located at a distance of about 2 km from station, where you can shop for clothes, sports accessories, electronic goods and the like.
+        The Ghabar Buri Chandi Temple is a must visit location for ardent devotees of Mother Goddess. It is the prime example of the religious fervor in India and you can also take part in the wonderful religious practices here.
+        Ghabar Buri Chandi Temple is a year round destination that attracts devotees from all over. However, it is advisable to visit the shrine during the winter months. It is fairly easy to reach the temple as one can hire a taxi from the Asansol Station to the shrine."</string>
+
+    <!--Park Fragments-->
+
+    <string name="Nehru_Park">Nehru Park</string>
+    <string name="Nehru_Park_desc">Nehru Park is located on the banks of the Damodar River at Burnpur, a neighbourhood in Asansol in the Indian state of West Bengal.</string>
+
+    <string name="Satabdi_Park">Satabdi Park</string>
+    <string name="Satabdi_Park_desc">Satabdi Park is an important tourist place at Asansol. The park is developed and maintained by the Indian Railways. Satabdi Park has a children\'s play area and walk-trails surrounded by lush green well maintained lawns and flowering plants. It has several amusement rides like the Columbus, caterpillar and see-saw. There are boat services as well, which includes paddle boat and rowing boat. There are canteens and stalls selling snacks and other refreshments.</string>
+
+    <string name="Panorama_Water_Park">Panorama Water Park</string>
+    <string name="Panorama_Water_Park_desc">Panorama Country Club and Resorts is an interactive offering from the ASK Group on the outskirts of the industrial town of Asansol. Complete with international standards of safety and management, the amusement park is an educative and entertaining hub for people of all age groups. There are fun rides designed for different demographic profiles and a certified water park that adds to the thrill factor.
+
+        The park is complete with both land and water games that serve as an ideal reason for taking a day off from your regular routine. The location of the Panorama resorts adjacent to the park’s premises makes it all the more convenient in terms of accommodation and food. Panorama also boasts of being an eco-friendly amusement park, enhancing its overall appeal.
+
+        vast area of the venue serves as an ideal spot for hosting an array of important events like weddings, birthday celebrations, meetings, conferences, corporate dinners and so on. You can make advance bookings to make sure that the place is available during your preferred dates.</string>
+
+    <string name="Anand_Amusment_Park">Anand Amusment Park</string>
+    <string name="Anand_Amusment_Park_desc">Located in the City Center, Anand Amusement and Water Park in Durgapur is a one stop destination to have fun with your your friends and family. There are a lot of amusement rides and slides at this water park of Durgapur.  Not only that but the park also has a toy train, aquarium and rope way amidst the lush green gardens. Every year, in the month of December the park also organizes various events where one can enjoy to the fullest.</string>
+</resources>

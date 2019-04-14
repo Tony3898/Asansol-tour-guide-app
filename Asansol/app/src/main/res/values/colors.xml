@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2d174d</color>
+    <color name="colorPrimaryDark">#613e55</color>
+    <color name="extra1">#96645d</color>
+    <color name="extra2">#ca8b65</color>
+    <color name="colorAccent">#ffb16d</color>
+
+    <color name="transColorPrimary">#882d174d</color>
+    <color name="transColorPrimaryDark">#88613e55</color>
+    <color name="transExtra1">#8896645d</color>
+    <color name="transExtra2">#88ca8b65</color>
+    <color name="transColorAccent">#88ffb16d</color>
+</resources>
